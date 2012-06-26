@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Diagnostics;
-using Microsoft.WindowsAzure.ServiceRuntime;
+using System.Text;
 using ByteSmith.WindowsAzure.Configuration;
+using Microsoft.WindowsAzure.ServiceRuntime;
 
 namespace ByteSmith.WindowsAzure.Diagnostics
 {

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Data.Services.Client;
 using System.Diagnostics;
+using System.Text;
 using ByteSmith.WindowsAzure.Configuration;
 using Microsoft.WindowsAzure;
 using Microsoft.WindowsAzure.ServiceRuntime;
 using Microsoft.WindowsAzure.StorageClient;
-using System.Data.Services.Client;
 
 namespace ByteSmith.WindowsAzure.Diagnostics
 {
